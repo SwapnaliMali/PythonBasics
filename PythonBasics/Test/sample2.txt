@@ -1,0 +1,1 @@
+Hello world! This code is written to check how merge works via CLI
